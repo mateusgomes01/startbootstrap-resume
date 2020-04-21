@@ -7,6 +7,12 @@ This is a resume based on [Start Bootstrap](http://startbootstrap.com/) [Resume]
 * Portuguese/English language toggle
 * Accessibility options for manual font size adjustment
 
+## My Preview
+
+[![Resume Preview](https://raw.githubusercontent.com/mateusgomes01/startbootstrap-resume/master/img/screenshots/mateusmelo.PNG)](https://mateusgomes01.github.io/startbootstrap-resume/)
+
+**[View Live Preview](https://mateusgomes01.github.io/startbootstrap-resume/)**
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
