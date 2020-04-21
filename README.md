@@ -4,8 +4,8 @@ This is a resume based on [Start Bootstrap](http://startbootstrap.com/) [Resume]
 
 ## Features to be added
 
-> Portuguese/English language toggle
-> Accessibility options for manual font size adjustment
+* Portuguese/English language toggle
+* Accessibility options for manual font size adjustment
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
